@@ -1,0 +1,4 @@
+3
+Dallas Houston Austin
+Dallas Austin 100
+Houston Dallas 20

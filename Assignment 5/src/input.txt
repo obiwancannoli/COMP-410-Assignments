@@ -1,0 +1,8 @@
+5
+Dallas Houston Austin Amarillo Lubbock
+Dallas Austin 100
+Houston Lubbock 100
+Austin Lubbock 200
+Dallas Amarillo 125
+Lubbock Dallas 10
+Austin Amarillo 220
