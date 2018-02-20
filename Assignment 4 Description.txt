@@ -1,1 +1,0 @@
-Assignment 4's purpose was to create a dynamic dictionary using a binary search tree structure and an AVL tree structure.
